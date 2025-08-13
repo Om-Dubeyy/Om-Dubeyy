@@ -1,4 +1,4 @@
-# Hi, I'm Om Dubeyy 👋
+# Hi, I'm Om Dubey 👋
 
 ## About Me
 Aspiring developer focused on building solid fundamentals and real-world projects. I'm currently leveling up in data structures and algorithms while documenting my journey.
