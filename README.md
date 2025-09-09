@@ -14,11 +14,8 @@ I'm tracking my 24-week SDE + AI plan here: [journey-sde-ai](https://github.com/
 - **Week 8:** fastapi-starter (CRUD + Postgres + tests + deploy)
 - **Week 16:** Portfolio Project 1 (Contract QA / Security Triage / SQL Linting)
 - **Week 20:** Portfolio Project 2 (RAG micro-app)
-## Weekly Progress Log (prefilled, 4 weeks)
+## Weekly Progress Log
 - **Week 1 (2025-08-14 → 2025-08-20):** Python basics setup, 10 easy DSA problems, notes
 - **Week 2 (2025-08-21 → 2025-08-27):** Arrays + two pointers, 8 problems, pattern notes
 - **Week 3 (2025-08-28 → 2025-09-03):** Strings + sliding window, 6 problems, heuristics note
 - **Week 4 (2025-09-04 → 2025-09-10):** Hashing + stack/queue, 8 problems, cheat sheet
-## Optional Polish
-- Pin the journey repo (and later your project repos)
-- Add small badges (e.g., shields.io) for tools
