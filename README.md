@@ -1,15 +1,14 @@
 # Hi, I'm Om Dubey 👋
 
-Aspiring **Software Developer from India** focused on **Backend Development, Data Structures & Algorithms, and scalable systems**.
-
-I enjoy solving complex problems, writing clean code, and documenting my learning journey publicly.
+Aspiring **Software Developer from India** with expertise in  **Python, GoLang , Machine Learning and scalable full-stack systems**.
+I am very passionate about creating **user-focused, data-driven solutions at scale**.
 
 ---
 
 ## 🚀 Current Focus
 - Backend Development with **Python & FastAPI**
 - Strengthening **Data Structures & Algorithms**
-- Building **real-world backend projects**
+- Building **real-world backend projects with integration of AI and modern tech-stacks**
 - Learning **SQL, Docker, and system design**
 
 ---
@@ -18,7 +17,7 @@ I enjoy solving complex problems, writing clean code, and documenting my learnin
 
 **Languages**
 - Python
-- Java
+- GoLang
 - SQL
 
 **Backend & Tools**
@@ -32,46 +31,16 @@ I enjoy solving complex problems, writing clean code, and documenting my learnin
 - Data Structures & Algorithms
 - REST APIs
 - Backend Architecture
+- Object Oriented Programming
+- Computer Networking
+- System Design Basics
 
----
 
-## 📌 Featured Projects
 
-### 🔹 FastAPI Starter API
-Production-style REST API with authentication, testing, and Docker deployment.
 
-**Tech:** FastAPI, PostgreSQL, Docker, Pytest
 
----
 
-### 🔹 SQL Query Analyzer
-Tool for analyzing and improving SQL query performance.
 
-**Tech:** Python, SQL
-
----
-
-### 🔹 DSA Practice Repository
-Collection of Data Structures & Algorithms problems with explanations.
-
-Topics covered:
-- Arrays
-- Trees
-- Graphs
-- Dynamic Programming
-- Sliding Window
-- Binary Search
-
----
-
-## 📚 Learning Journey
-
-Tracking my **24-week SDE + AI learning roadmap**
-
-Repository:  
-`journey-sde-ai`
-
----
 
 ## 📈 GitHub Stats
 
@@ -85,7 +54,8 @@ Repository:
 
 Email: **omdubey050904@gmail.com**  
 LinkedIn: **https://www.linkedin.com/in/om-dubey-6350771b3/**
+Phone: +91-8081977741
 
 ---
 
-⭐ Currently building projects and improving every day.
+⭐ Currently working as a freelancer at Outlier.Ai as an Ml Model Trainer
