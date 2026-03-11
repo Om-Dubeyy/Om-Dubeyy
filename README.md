@@ -1,21 +1,91 @@
-# Hi, I'm Om Dubey — aspiring software developer from India, documenting my journey publicly.
-## Contact Details
-- **Email:** omdubey050904@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/om-dubey-6350771b3/
-## Current Focus and Goal
-- **Current focus:** Python + DSA → Backend (FastAPI + Postgres) with tests and deployment
-- **6-month goal:** SDE/intern role and 2 portfolio projects with real evaluations
-## Learning Journey Link
-I'm tracking my 24-week SDE + AI plan here: [journey-sde-ai](https://github.com/Om-Dubeyy/journey-sde-ai)
-## Skills and Tools (growing)
-- **Languages:** Python
-- **Learning:** SQL, FastAPI, Docker, Git/GitHub, pytest
-## Projects (upcoming)
-- **Week 8:** fastapi-starter (CRUD + Postgres + tests + deploy)
-- **Week 16:** Portfolio Project 1 (Contract QA / Security Triage / SQL Linting)
-- **Week 20:** Portfolio Project 2 (RAG micro-app)
-## Weekly Progress Log
-- **Week 1 (2025-08-14 → 2025-08-20):** Python basics setup, 10 easy DSA problems, notes
-- **Week 2 (2025-08-21 → 2025-08-27):** Arrays + two pointers, 8 problems, pattern notes
-- **Week 3 (2025-08-28 → 2025-09-03):** Strings + sliding window, 6 problems, heuristics note
-- **Week 4 (2025-09-04 → 2025-09-10):** Hashing + stack/queue, 8 problems, cheat sheet
+# Hi, I'm Om Dubey 👋
+
+Aspiring **Software Developer from India** focused on **Backend Development, Data Structures & Algorithms, and scalable systems**.
+
+I enjoy solving complex problems, writing clean code, and documenting my learning journey publicly.
+
+---
+
+## 🚀 Current Focus
+- Backend Development with **Python & FastAPI**
+- Strengthening **Data Structures & Algorithms**
+- Building **real-world backend projects**
+- Learning **SQL, Docker, and system design**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- Java
+- SQL
+
+**Backend & Tools**
+- FastAPI
+- PostgreSQL
+- Docker
+- Git / GitHub
+- Pytest
+
+**Concepts**
+- Data Structures & Algorithms
+- REST APIs
+- Backend Architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 FastAPI Starter API
+Production-style REST API with authentication, testing, and Docker deployment.
+
+**Tech:** FastAPI, PostgreSQL, Docker, Pytest
+
+---
+
+### 🔹 SQL Query Analyzer
+Tool for analyzing and improving SQL query performance.
+
+**Tech:** Python, SQL
+
+---
+
+### 🔹 DSA Practice Repository
+Collection of Data Structures & Algorithms problems with explanations.
+
+Topics covered:
+- Arrays
+- Trees
+- Graphs
+- Dynamic Programming
+- Sliding Window
+- Binary Search
+
+---
+
+## 📚 Learning Journey
+
+Tracking my **24-week SDE + AI learning roadmap**
+
+Repository:  
+`journey-sde-ai`
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om-Dubeyy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Dubeyy&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+Email: **omdubey050904@gmail.com**  
+LinkedIn: **https://www.linkedin.com/in/om-dubey-6350771b3/**
+
+---
+
+⭐ Currently building projects and improving every day.
